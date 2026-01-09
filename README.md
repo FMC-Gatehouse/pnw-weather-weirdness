@@ -1,16 +1,34 @@
-# pnw_weather_weirdness
+# 🌧️ PNW Weather Weirdness
 
-A new Flutter project.
+Turn boring weather checking into an adventure! Collect cryptids, earn achievements, and explore the Pacific Northwest through gamified weather tracking.
 
-## Getting Started
+## 🎮 Features
+- Daily weather check-ins with personality
+- Collectible stickers and cryptids
+- Rally cards (inspired by Japanese eki stamps)
+- Community sightings and sharing
+- Location-based exploration
 
-This project is a starting point for a Flutter application.
+## 🛠️ Tech Stack
+- Flutter
+- Firebase (Auth, Firestore, Storage)
+- OpenWeatherMap API
+- Google Maps / Mapbox
 
-A few resources to get you started if this is your first Flutter project:
+## 📱 Status
+🚧 In Development - Phase 1: Foundation
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+## 🏗️ Setup
+```bash
+flutter pub get
+flutter run
+```
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+## 📖 Documentation
+- [GDD](docs/design/gdd.md)
+- [Wireframes](docs/design/wireframes.md)
+- [Architecture](docs/architecture/overview.md)
+
+---
+
+Built with ☔ by FMC-Gatehouse
